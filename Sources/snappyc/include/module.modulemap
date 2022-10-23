@@ -1,0 +1,4 @@
+module snappyc {
+    header "../snappyc.h"
+    export *
+}
