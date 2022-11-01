@@ -1,8 +1,10 @@
 # snappy in `swift`
 
-## Simple interface to use Google `snappy` in `swift`
+## Simple interface to use Google `snappy` compression in `swift`
 
-### build from google [snappy](https://github.com/google/snappy) repository 
+### Built from google [snappy](https://github.com/google/snappy) repository 
+
+The snappy compression library for iOS and macOS which provides simple and convinient interface
 
 Some examples
 
